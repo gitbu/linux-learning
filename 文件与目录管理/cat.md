@@ -5,6 +5,3 @@
 2. ```shell
    cat -s /etc/passwd .passwdtemp
    ```
-
-3. 
-
